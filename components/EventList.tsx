@@ -59,12 +59,14 @@ export default function EventList({ date }: EventListProps) {
                                     {event.time}
                                 </div>
                             )}
-                            <div>
+                            {event.location && (
+                              <div>
                                 <span className="inline-block w-20">
-                                    Location:
+                                  Location:
                                 </span>{" "}
                                 {event.location}
-                            </div>
+                              </div>
+                            )}
                             {event.details && (
                                 <div>
                                     <span className="inline-block w-20">
