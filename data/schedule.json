@@ -5,6 +5,7 @@
       "type": "iftaar",
       "time": "6PM",
       "link": "timyurl.com/ASUIftar25",
+      "Name": "Arab Student Union Iftaar"
       "linkText": "RSVP Link",
       "organization": "Arab Student Union"
     },
@@ -27,6 +28,7 @@
       "type": "iftaar",
       "time": "5:30PM",
       "link": "tinyurl.com/MohIftar25",
+      "Name": "Muslims of Haas Iftaar"
       "linkText": "RSVP Here",
       "organization": "Muslims of Haas"
     },
@@ -51,6 +53,7 @@
       "type": "iftaar",
       "time": "6PM",
       "link": "tinyurl.com/MTCxZFIftar",
+      "Name": "MTC x Zakat Foundation Iftaar"
       "organization": "Muslim Tech Collaborative"
     },
     {
