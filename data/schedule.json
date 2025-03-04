@@ -1,335 +1,333 @@
 {
-  
-  "2025-03-04": [
-    {
-      "type": "iftaar",
-      "time": "6PM",
-      "link": "timyurl.com/ASUIftar25",
-      "Name": "Arab Student Union Iftaar"
-      "linkText": "RSVP Link",
-      "organization": "Arab Student Union"
-    },
-    {
-      "type": "taraweeh",
-      "time": "7:30PM",
-      "location": "Berkeley Masjid",
-      "details": ""
-    }
-  ],
-  "2025-03-05": [
-    {
-      "type": "other",
-      "time": "4PM",
-      "location": "Berkeley Masjid",
-      "name": "Weekly Ramadan Chronicles",
-      "organization": "MSA"
-    },
-    {
-      "type": "iftaar",
-      "time": "5:30PM",
-      "link": "tinyurl.com/MohIftar25",
-      "Name": "Muslims of Haas Iftaar"
-      "linkText": "RSVP Here",
-      "organization": "Muslims of Haas"
-    },
-    {
-      "type": "taraweeh",
-      "time": "7:30PM",
-      "location": "Berkeley Masjid",
-      "details": ""
-    }
-  ],
-  "2025-03-06": [
-  ],
-  "2025-03-07": [
-    {
-      "type": "other",
-      "time": "12PM",
-      "location": "Eshlemen 338",
-      "name": "Sisters Surah Al Kahf Circle",
-      "organization": "MSA"
-    },
-    {
-      "type": "iftaar",
-      "time": "6PM",
-      "link": "tinyurl.com/MTCxZFIftar",
-      "Name": "MTC x Zakat Foundation Iftaar"
-      "organization": "Muslim Tech Collaborative"
-    },
-    {
-      "type": "Jumaa",
-      "time": "1:15PM",
-      "location": "Hearst Gymnasium",
-      "details": ""
-    },
-    {
-      "type": "Jumaa",
-      "time": "2:15PM",
-      "location": "Eshlemen Hall Med Room",
-      "details": ""
-    },
-    {
-      "type": "taraweeh",
-      "time": "7:45PM",
-      "location": "Covel North Ridge",
-      "details": ""
-    }
-  ],
-  "2025-03-08": [
-    {
-      "type": "taraweeh",
-      "time": "7:45PM",
-      "location": "Covel North Ridge",
-      "details": ""
-    }
-  ],
-  "2025-03-09": [
-    {
-      "type": "taraweeh",
-      "time": "8:45PM",
-      "location": "Covel North Ridge",
-      "details": ""
-    }
-  ],
-  "2025-03-10": [
-    {
-      "type": "iftaar",
-      "time": "",
-      "location": "Pauley",
-      "details": "Simpang Asia + Magnolia Bakery"
-    },
-    {
-      "type": "taraweeh",
-      "time": "8:45PM",
-      "location": "Pauley Pavillion N",
-      "details": ""
-    }
-  ],
-  "2025-03-11": [
-    {
-      "type": "iftaar",
-      "time": "",
-      "location": "Pauley",
-      "details": "Al-Watan"
-    },
-    {
-      "type": "taraweeh",
-      "time": "8:45PM",
-      "location": "Pauley Pavillion N",
-      "details": ""
-    }
-  ],
-  "2025-03-12": [
-    {
-      "type": "other",
-      "time": "5AM",
-      "location": "Rieber Hall LLC Lounge (Room 135)",
-      "name": "Suhoor Pancakes w/ Dr. Khankan",
-      "organization": "MSA"
-    },
-    {
-      "type": "iftaar",
-      "time": "",
-      "location": "Pauley",
-      "details": "Banadir Somali restaurant"
-    },
-    {
-      "type": "taraweeh",
-      "time": "8:45PM",
-      "location": "Pauley Pavillion N",
-      "details": ""
-    }
-  ],
-  "2025-03-13": [
-    {
-      "type": "iftaar",
-      "time": "",
-      "location": "Pauley",
-      "details": "Fresh Corn Grill"
-    },
-    {
-      "type": "taraweeh",
-      "time": "8:45PM",
-      "location": "Pauley Pavillion N",
-      "details": ""
-    }
-  ],
-  "2025-03-14": [
-    {
-      "type": "Jumaa",
-      "time": "1:15PM",
-      "location": "John Wooden Pyramid Room",
-      "details": ""
-    },
-    {
-      "type": "taraweeh",
-      "time": "8:45PM",
-      "location": "TBA",
-      "details": ""
-    }
-  ],
-  "2025-03-15": [
-    {
-      "type": "taraweeh",
-      "time": "8:45PM",
-      "location": "TBA",
-      "details": ""
-    }
-  ],
-  "2025-03-16": [
-    {
-      "type": "taraweeh",
-      "time": "8:45PM",
-      "location": "TBA",
-      "details": ""
-    }
-  ],
-  "2025-03-17": [
-    {
-      "type": "iftaar",
-      "time": "",
-      "location": "Drake Stadium",
-      "details": "Brother Lateef's"
-    },
-    {
-      "type": "taraweeh",
-      "time": "8:45PM",
-      "location": "SAC Gym Courts 1-3",
-      "details": ""
-    }
-  ],
-  "2025-03-18": [
-    {
-      "type": "iftaar",
-      "time": "",
-      "location": "Drake Stadium",
-      "details": "Shawarma House Anaheim + Atayef"
-    },
-    {
-      "type": "taraweeh",
-      "time": "8:45PM",
-      "location": "SAC Gym Courts 1-3",
-      "details": ""
-    }
-  ],
-  "2025-03-19": [
-    {
-      "type": "iftaar",
-      "time": "",
-      "location": "Drake Stadium",
-      "details": "Sunnin Lebanese"
-    },
-    {
-      "type": "taraweeh",
-      "time": "8:45PM",
-      "location": "SAC Gym Courts 1-3",
-      "details": ""
-    }
-  ],
-  "2025-03-20": [
-    {
-      "type": "iftaar",
-      "time": "",
-      "location": "Drake Stadium",
-      "details": "Meklatounsia"
-    },
-    {
-      "type": "taraweeh",
-      "time": "8:45PM",
-      "location": "Drake Upper Concourse",
-      "details": ""
-    }
-  ],
-  "2025-03-21": [
-    {
-      "type": "Jumaa",
-      "time": "1:15PM",
-      "location": "John Wooden Pyramid Room",
-      "details": ""
-    },
-    {
-      "type": "taraweeh",
-      "time": "8:45PM",
-      "location": "SAC Gym Courts 1-3",
-      "details": ""
-    }
-  ],
-  "2025-03-22": [
-    {
-      "type": "taraweeh",
-      "time": "8:45PM",
-      "location": "SAC Gym Courts 1-3",
-      "details": ""
-    }
-  ],
-  "2025-03-23": [
-    {
-      "type": "taraweeh",
-      "time": "8:45PM",
-      "location": "Pauley Pavillion",
-      "details": ""
-    }
-  ],
-  "2025-03-24": [
-    {
-      "type": "taraweeh",
-      "time": "8:45PM",
-      "location": "SAC Gym Courts 1-3",
-      "details": ""
-    }
-  ],
-  "2025-03-25": [
-    {
-      "type": "taraweeh",
-      "time": "8:45PM",
-      "location": "SAC Gym Courts 1-3",
-      "details": ""
-    }
-  ],
-  "2025-03-26": [
-    {
-      "type": "taraweeh",
-      "time": "8:45PM",
-      "location": "SAC Gym Courts 1-3",
-      "details": ""
-    }
-  ],
-  "2025-03-27": [
-    {
-      "type": "taraweeh",
-      "time": "8:45PM",
-      "location": "SAC Gym Courts 1-3",
-      "details": ""
-    }
-  ],
-  "2025-03-28": [
-    {
-      "type": "Jumaa",
-      "time": "1:15PM",
-      "location": "John Wooden Pyramid Room",
-      "details": ""
-    },
-    {
-      "type": "taraweeh",
-      "time": "8:45PM",
-      "location": "SAC Gym Courts 1-3",
-      "details": ""
-    }
-  ],
-  "2025-03-29": [
-    {
-      "type": "taraweeh",
-      "time": "8:45PM",
-      "location": "SAC Gym Courts 1-3",
-      "details": ""
-    }
-  ],
-  "2025-03-30": [
-    {
-      "type": "taraweeh",
-      "time": "8:45PM",
-      "location": "SAC Gym Courts 1-3",
-      "details": ""
-    }
-  ]
+    "2025-03-04": [
+        {
+            "type": "iftaar",
+            "time": "6PM",
+            "link": "timyurl.com/ASUIftar25",
+            "Name": "Arab Student Union Iftaar",
+            "linkText": "RSVP Link",
+            "organization": "Arab Student Union"
+        },
+        {
+            "type": "taraweeh",
+            "time": "7:30PM",
+            "location": "Berkeley Masjid",
+            "details": ""
+        }
+    ],
+    "2025-03-05": [
+        {
+            "type": "other",
+            "time": "4PM",
+            "location": "Berkeley Masjid",
+            "name": "Weekly Ramadan Chronicles",
+            "organization": "MSA"
+        },
+        {
+            "type": "iftaar",
+            "time": "5:30PM",
+            "link": "tinyurl.com/MohIftar25",
+            "Name": "Muslims of Haas Iftaar",
+            "linkText": "RSVP Here",
+            "organization": "Muslims of Haas"
+        },
+        {
+            "type": "taraweeh",
+            "time": "7:30PM",
+            "location": "Berkeley Masjid",
+            "details": ""
+        }
+    ],
+    "2025-03-06": [],
+    "2025-03-07": [
+        {
+            "type": "other",
+            "time": "12PM",
+            "location": "Eshlemen 338",
+            "name": "Sisters Surah Al Kahf Circle",
+            "organization": "MSA"
+        },
+        {
+            "type": "iftaar",
+            "time": "6PM",
+            "link": "tinyurl.com/MTCxZFIftar",
+            "Name": "MTC x Zakat Foundation Iftaar",
+            "organization": "Muslim Tech Collaborative"
+        },
+        {
+            "type": "Jumaa",
+            "time": "1:15PM",
+            "location": "Hearst Gymnasium",
+            "details": ""
+        },
+        {
+            "type": "Jumaa",
+            "time": "2:15PM",
+            "location": "Eshlemen Hall Med Room",
+            "details": ""
+        },
+        {
+            "type": "taraweeh",
+            "time": "7:45PM",
+            "location": "Covel North Ridge",
+            "details": ""
+        }
+    ],
+    "2025-03-08": [
+        {
+            "type": "taraweeh",
+            "time": "7:45PM",
+            "location": "Covel North Ridge",
+            "details": ""
+        }
+    ],
+    "2025-03-09": [
+        {
+            "type": "taraweeh",
+            "time": "8:45PM",
+            "location": "Covel North Ridge",
+            "details": ""
+        }
+    ],
+    "2025-03-10": [
+        {
+            "type": "iftaar",
+            "time": "",
+            "location": "Pauley",
+            "details": "Simpang Asia + Magnolia Bakery"
+        },
+        {
+            "type": "taraweeh",
+            "time": "8:45PM",
+            "location": "Pauley Pavillion N",
+            "details": ""
+        }
+    ],
+    "2025-03-11": [
+        {
+            "type": "iftaar",
+            "time": "",
+            "location": "Pauley",
+            "details": "Al-Watan"
+        },
+        {
+            "type": "taraweeh",
+            "time": "8:45PM",
+            "location": "Pauley Pavillion N",
+            "details": ""
+        }
+    ],
+    "2025-03-12": [
+        {
+            "type": "other",
+            "time": "5AM",
+            "location": "Rieber Hall LLC Lounge (Room 135)",
+            "name": "Suhoor Pancakes w/ Dr. Khankan",
+            "organization": "MSA"
+        },
+        {
+            "type": "iftaar",
+            "time": "",
+            "location": "Pauley",
+            "details": "Banadir Somali restaurant"
+        },
+        {
+            "type": "taraweeh",
+            "time": "8:45PM",
+            "location": "Pauley Pavillion N",
+            "details": ""
+        }
+    ],
+    "2025-03-13": [
+        {
+            "type": "iftaar",
+            "time": "",
+            "location": "Pauley",
+            "details": "Fresh Corn Grill"
+        },
+        {
+            "type": "taraweeh",
+            "time": "8:45PM",
+            "location": "Pauley Pavillion N",
+            "details": ""
+        }
+    ],
+    "2025-03-14": [
+        {
+            "type": "Jumaa",
+            "time": "1:15PM",
+            "location": "John Wooden Pyramid Room",
+            "details": ""
+        },
+        {
+            "type": "taraweeh",
+            "time": "8:45PM",
+            "location": "TBA",
+            "details": ""
+        }
+    ],
+    "2025-03-15": [
+        {
+            "type": "taraweeh",
+            "time": "8:45PM",
+            "location": "TBA",
+            "details": ""
+        }
+    ],
+    "2025-03-16": [
+        {
+            "type": "taraweeh",
+            "time": "8:45PM",
+            "location": "TBA",
+            "details": ""
+        }
+    ],
+    "2025-03-17": [
+        {
+            "type": "iftaar",
+            "time": "",
+            "location": "Drake Stadium",
+            "details": "Brother Lateef's"
+        },
+        {
+            "type": "taraweeh",
+            "time": "8:45PM",
+            "location": "SAC Gym Courts 1-3",
+            "details": ""
+        }
+    ],
+    "2025-03-18": [
+        {
+            "type": "iftaar",
+            "time": "",
+            "location": "Drake Stadium",
+            "details": "Shawarma House Anaheim + Atayef"
+        },
+        {
+            "type": "taraweeh",
+            "time": "8:45PM",
+            "location": "SAC Gym Courts 1-3",
+            "details": ""
+        }
+    ],
+    "2025-03-19": [
+        {
+            "type": "iftaar",
+            "time": "",
+            "location": "Drake Stadium",
+            "details": "Sunnin Lebanese"
+        },
+        {
+            "type": "taraweeh",
+            "time": "8:45PM",
+            "location": "SAC Gym Courts 1-3",
+            "details": ""
+        }
+    ],
+    "2025-03-20": [
+        {
+            "type": "iftaar",
+            "time": "",
+            "location": "Drake Stadium",
+            "details": "Meklatounsia"
+        },
+        {
+            "type": "taraweeh",
+            "time": "8:45PM",
+            "location": "Drake Upper Concourse",
+            "details": ""
+        }
+    ],
+    "2025-03-21": [
+        {
+            "type": "Jumaa",
+            "time": "1:15PM",
+            "location": "John Wooden Pyramid Room",
+            "details": ""
+        },
+        {
+            "type": "taraweeh",
+            "time": "8:45PM",
+            "location": "SAC Gym Courts 1-3",
+            "details": ""
+        }
+    ],
+    "2025-03-22": [
+        {
+            "type": "taraweeh",
+            "time": "8:45PM",
+            "location": "SAC Gym Courts 1-3",
+            "details": ""
+        }
+    ],
+    "2025-03-23": [
+        {
+            "type": "taraweeh",
+            "time": "8:45PM",
+            "location": "Pauley Pavillion",
+            "details": ""
+        }
+    ],
+    "2025-03-24": [
+        {
+            "type": "taraweeh",
+            "time": "8:45PM",
+            "location": "SAC Gym Courts 1-3",
+            "details": ""
+        }
+    ],
+    "2025-03-25": [
+        {
+            "type": "taraweeh",
+            "time": "8:45PM",
+            "location": "SAC Gym Courts 1-3",
+            "details": ""
+        }
+    ],
+    "2025-03-26": [
+        {
+            "type": "taraweeh",
+            "time": "8:45PM",
+            "location": "SAC Gym Courts 1-3",
+            "details": ""
+        }
+    ],
+    "2025-03-27": [
+        {
+            "type": "taraweeh",
+            "time": "8:45PM",
+            "location": "SAC Gym Courts 1-3",
+            "details": ""
+        }
+    ],
+    "2025-03-28": [
+        {
+            "type": "Jumaa",
+            "time": "1:15PM",
+            "location": "John Wooden Pyramid Room",
+            "details": ""
+        },
+        {
+            "type": "taraweeh",
+            "time": "8:45PM",
+            "location": "SAC Gym Courts 1-3",
+            "details": ""
+        }
+    ],
+    "2025-03-29": [
+        {
+            "type": "taraweeh",
+            "time": "8:45PM",
+            "location": "SAC Gym Courts 1-3",
+            "details": ""
+        }
+    ],
+    "2025-03-30": [
+        {
+            "type": "taraweeh",
+            "time": "8:45PM",
+            "location": "SAC Gym Courts 1-3",
+            "details": ""
+        }
+    ]
 }
