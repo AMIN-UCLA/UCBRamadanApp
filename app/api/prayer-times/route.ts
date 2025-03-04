@@ -11,7 +11,7 @@ export async function GET(request: Request) {
         );
     }
 
-    const apiUrl = `http://api.aladhan.com/v1/timings/${date}?latitude=34.0699&longitude=-118.4438&method=2`;
+    const apiUrl = `http://api.aladhan.com/v1/timings/${date}?latitude=37.8619778&longitude=-122.2552749&method=2`;
 
     try {
         const response = await fetch(apiUrl);
