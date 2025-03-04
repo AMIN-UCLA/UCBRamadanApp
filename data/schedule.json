@@ -1,139 +1,68 @@
 {
-  "2025-02-28": [
-    {
-      "type": "Jumaa",
-      "time": "1:15PM",
-      "location": "John Wooden Pyramid Room",
-      "details": ""
-    },
-    {
-      "type": "taraweeh",
-      "time": "7:45PM",
-      "location": "Pauley Pavillion SE",
-      "details": ""
-    }
-  ],
-  "2025-03-01": [
-    {
-      "type": "other",
-      "time": "4AM",
-      "location": "Denny's Westwood",
-      "name": "Brother's Suhoor Run",
-      "organization": "MSA"
-    },
-    {
-      "type": "taraweeh",
-      "time": "7:45PM",
-      "location": "Covel North Ridge",
-      "details": ""
-    }
-  ],
-  "2025-03-02": [
-    {
-      "type": "taraweeh",
-      "time": "7:45PM",
-      "location": "Pauley Pavillion SE",
-      "details": ""
-    }
-  ],
-  "2025-03-03": [
-    {
-      "type": "iftaar",
-      "time": "",
-      "location": "Drake Stadium",
-      "details": "New York Chicken & Gyro"
-    },
-    {
-      "type": "taraweeh",
-      "time": "7:45PM",
-      "location": "Drake Upper Concourse",
-      "details": ""
-    }
-  ],
+  
   "2025-03-04": [
     {
       "type": "iftaar",
-      "time": "",
-      "location": "Drake Stadium",
-      "details": "New India's Oven"
+      "time": "6PM",
+      "link": "timyurl.com/ASUIftar25",
+      "linkText": "RSVP Link",
+      "organization": "Arab Student Union"
     },
     {
       "type": "taraweeh",
-      "time": "7:45PM",
-      "location": "Pauley Pavillion NE",
+      "time": "7:30PM",
+      "location": "Berkeley Masjid",
       "details": ""
     }
   ],
   "2025-03-05": [
     {
       "type": "other",
-      "time": "4AM",
-      "location": "Rieber Hall LLC Lounge (Room 135)",
-      "name": "Suhoor Pancakes w/ Dr. Khankan",
-      "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-      "linkText": "More Info",
+      "time": "4PM",
+      "location": "Berkeley Masjid",
+      "name": "Weekly Ramadan Chronicles",
       "organization": "MSA"
     },
     {
       "type": "iftaar",
-      "time": "",
-      "location": "Drake Stadium",
-      "details": "House of Mandi"
+      "time": "5:30PM",
+      "link": "tinyurl.com/MohIftar25",
+      "linkText": "RSVP Here",
+      "organization": "Muslims of Haas"
     },
     {
       "type": "taraweeh",
-      "time": "7:45PM",
-      "location": "Pauley Pavillion SE",
+      "time": "7:30PM",
+      "location": "Berkeley Masjid",
       "details": ""
-    },
-    {
-      "type": "other",
-      "time": "9PM",
-      "location": "House of Mandi Westwood",
-      "name": "Sisters' Chai and Cards",
-      "organization": "MSA"
     }
   ],
   "2025-03-06": [
-    {
-      "type": "iftaar",
-      "time": "",
-      "location": "Covel Grand Horizon",
-      "details": "Shamshiri"
-    },
-    {
-      "type": "taraweeh",
-      "time": "7:45PM",
-      "location": "Covel Grand Horizon",
-      "details": ""
-    },
-    {
-      "type": "other",
-      "time": "10PM",
-      "location": "House of Mandi Westwood",
-      "name": "Brother's Chai and Cards",
-      "organization": "MSA"
-    },
-    {
-      "type": "other",
-      "time": "11PM",
-      "location": "Insomnia Cookies + Gayley Heights Lobby",
-      "name": "Post Taraweeh Insomnia Cookie Run",
-      "organization": "AMIN + PSU"
-    }
   ],
   "2025-03-07": [
     {
       "type": "other",
-      "time": "4AM",
-      "location": "Denny's Westwood",
-      "name": "Sister's Suhoor Run",
+      "time": "12PM",
+      "location": "Eshlemen 338",
+      "name": "Sisters Surah Al Kahf Circle",
       "organization": "MSA"
+    },
+    {
+      "type": "iftaar",
+      "time": "6PM",
+      "link": "tinyurl.com/MTCxZFIftar"
+      "organization": "Muslim Tech Collaborative"
     },
     {
       "type": "Jumaa",
       "time": "1:15PM",
-      "location": "John Wooden Pyramid Room",
+      "location": "Hearst Gymnasium",
+      "details": ""
+    },
+    {
+      "type": "Jumaa",
+      "time": "2:15PM",
+      "location": "Eshlemen Hall Med Room",
       "details": ""
     },
     {
