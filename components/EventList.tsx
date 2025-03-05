@@ -162,7 +162,7 @@ export default function EventList({ date }: EventListProps) {
                                         rel="noopener noreferrer"
                                         className="text-blue-600 underline"
                                     >
-                                        {event.linkText || "Register"}
+                                        {event.linkText || "RSVP"}
                                     </a>
                                 </div>
                             )}
