@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+body {
+  background-color: #ebf8ff; /* Light blue from Tailwind's blue-100 */
+}
+
 .swiper-button-next,
 .swiper-button-prev {
   color: #2563eb; /* blue-600 */

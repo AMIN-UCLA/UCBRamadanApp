@@ -3,9 +3,9 @@
         {
             "type": "iftaar",
             "time": "6PM",
-            "link": "timyurl.com/ASUIftar25",
-            "Name": "Arab Student Union Iftaar",
-            "linkText": "RSVP Link",
+            "name": "Arab Student Union Iftaar",
+            "link": "tinyurl.com/ASUIftar25",
+            "linkText": "RSVP",
             "organization": "Arab Student Union"
         },
         {
@@ -27,8 +27,8 @@
             "type": "iftaar",
             "time": "5:30PM",
             "link": "tinyurl.com/MohIftar25",
-            "Name": "Muslims of Haas Iftaar",
-            "linkText": "RSVP Here",
+            "name": "Muslims of Haas Iftaar",
+            "linkText": "RSVP",
             "organization": "Muslims of Haas"
         },
         {
@@ -51,7 +51,7 @@
             "type": "iftaar",
             "time": "6PM",
             "link": "tinyurl.com/MTCxZFIftar",
-            "Name": "MTC x Zakat Foundation Iftaar",
+            "name": "MTC x Zakat Foundation Iftaar",
             "organization": "Muslim Tech Collaborative"
         },
         {
