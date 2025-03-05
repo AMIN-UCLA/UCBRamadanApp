@@ -88,6 +88,21 @@
             "time": "7:30PM",
             "location": "Berkeley Masjid",
             "details": ""
+        },
+        {
+            "type": "other",
+            "time": "7:00AM - 10:00AM",
+            "location": "Berkeley Masjid",
+            "name": "Outreach Day",
+            "organization": "MSA",
+            "details": ""
+        },
+        {
+            "type": "other",
+            "time": "9:30PM - 6:00AM",
+            "location": "Berkeley Masjid",
+            "name": "MSA Ramadan Qiyam #2",
+            "organization": "MSA"
         }
     ],
     "2025-03-09": [
@@ -104,9 +119,24 @@
             "time": "8:30PM",
             "location": "Berkeley Masjid",
             "details": ""
+        },
+        {
+            "type": "other",
+            "time": "All week",
+            "location": "",
+            "name": "Islamic Clothing Week Pt. 2",
+            "organization": "MSA",
+            "details": "Wear your best fits!"
         }
     ],
     "2025-03-11": [
+        {
+            "type": "other",
+            "time": "11:00AM - 2:00PM",
+            "location": "Upper Sproul",
+            "name": "Fundraising for Gaza Evacuees",
+            "organization": "MSA"
+        },
         {
             "type": "taraweeh",
             "time": "8:45PM",
@@ -115,6 +145,20 @@
         }
     ],
     "2025-03-12": [
+        {
+            "type": "other",
+            "time": "11:00AM - 2:00PM",
+            "location": "Upper Sproul",
+            "name": "Fundraising for Gaza Evacuees",
+            "organization": "MSA"
+        },
+        {
+            "type": "other",
+            "time": "5:00PM - 6:00PM",
+            "location": "Berkeley Masjid",
+            "name": "Weekly Ramadan Chronicles",
+            "organization": "MSA"
+        },
         {
             "type": "taraweeh",
             "time": "8:45PM",
@@ -128,9 +172,30 @@
             "time": "8:45PM",
             "location": "Berkeley Masjid",
             "details": ""
+        },
+        {
+            "type": "other",
+            "time": "11:00AM - 2:00PM",
+            "location": "Upper Sproul",
+            "name": "Fundraising for Gaza Evacuees",
+            "organization": "MSA"
         }
     ],
     "2025-03-14": [
+        {
+            "type": "other",
+            "time": "11:00AM - 2:00PM",
+            "location": "Upper Sproul",
+            "name": "Fundraising for Gaza Evacuees",
+            "organization": "MSA"
+        },
+        {
+            "type": "other",
+            "time": "12:00PM - 1:00PM",
+            "location": "Eshleman 338",
+            "name": "Sisters Surah Al-Kahf Circle",
+            "organization": "MSA"
+        },
         {
             "type": "Jumaa",
             "time": "1:15PM",
@@ -153,6 +218,20 @@
         }
     ],
     "2025-03-15": [
+        {
+            "type": "other",
+            "time": "5:00PM - 6:30PM",
+            "location": "Berkeley Masjid",
+            "name": "Grad Muslim Workshop",
+            "organization": "MSA"
+        },
+        {
+            "type": "other",
+            "time": "5:00PM - 9:00PM",
+            "location": "Anchor House, Sequoia Room",
+            "name": "MSA Iftar!!!!",
+            "organization": "MSA"
+        },
         {
             "type": "taraweeh",
             "time": "8:45PM",
