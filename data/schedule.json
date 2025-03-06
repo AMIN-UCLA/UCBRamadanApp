@@ -88,6 +88,21 @@
             "time": "7:30PM",
             "location": "Berkeley Masjid",
             "details": ""
+        },
+        {
+            "type": "other",
+            "time": "7:00AM - 10:00AM",
+            "location": "Berkeley Masjid",
+            "name": "Outreach Day",
+            "organization": "MSA",
+            "details": ""
+        },
+        {
+            "type": "other",
+            "time": "9:30PM - 6:00AM",
+            "location": "Berkeley Masjid",
+            "name": "MSA Ramadan Qiyam #2",
+            "organization": "MSA"
         }
     ],
     "2025-03-09": [
@@ -100,24 +115,41 @@
     ],
     "2025-03-10": [
         {
-            "type":"iftaar",
-            "time":"6PM",
-            "link":"https://docs.google.com/forms/u/1/d/e/1FAIpQLSe8Qq9jsk83ChJA3Ch2Zo519DK_bSGrLa0flbvOZgGPW7G9pA/viewform?usp=dialog",
-            "host":"African Maghreb Student Union (MMHI)"
+            "type": "iftaar",
+            "time": "6:00PM - 9:00PM",
+            "link": "https://tr.ee/mc10UDWJFF",
+            "name": "AMSU Iftaar",
+            "organization": "African Maghreb Student Union"
         },
         {
             "type": "taraweeh",
             "time": "8:30PM",
             "location": "Berkeley Masjid",
             "details": ""
+        },
+        {
+            "type": "other",
+            "time": "All week",
+            "location": "",
+            "name": "Islamic Clothing Week Pt. 2",
+            "organization": "MSA",
+            "details": "Wear your best fits!"
         }
     ],
     "2025-03-11": [
         {
-            "type":"iftaar",
-            "time":"6PM",
-            "link":"bit.ly/mmhiftar",
-            "host":"Muslim Mental Health Initiative (MMHI)"
+            "type": "other",
+            "time": "11:00AM - 2:00PM",
+            "location": "Upper Sproul",
+            "name": "Fundraising for Gaza Evacuees",
+            "organization": "MSA"
+        },
+        {
+            "type": "iftaar",
+            "time": "6:00PM - 9:00PM",
+            "link": "http://bit.ly/mmhiftar",
+            "name": "MMHI Iftar",
+            "organization": "MMHI"
         },
         {
             "type": "taraweeh",
@@ -128,10 +160,25 @@
     ],
     "2025-03-12": [
         {
-            "type":"iftaar",
-            "time":"7PM",
-            "link":"https://docs.google.com/forms/d/e/1FAIpQLSfPVmZKbDxVJ1k_YiFNDhP_EQTKZ5oK9ay3wPf595zOOsYKDg/closedform",
-            "host":"Yemeni Student Association (YSA)"
+            "type": "other",
+            "time": "11:00AM - 2:00PM",
+            "location": "Upper Sproul",
+            "name": "Fundraising for Gaza Evacuees",
+            "organization": "MSA"
+        },
+        {
+            "type": "other",
+            "time": "5:00PM - 6:00PM",
+            "location": "Berkeley Masjid",
+            "name": "Weekly Ramadan Chronicles",
+            "organization": "MSA"
+        },
+        {
+            "type": "iftaar",
+            "time": "7:00PM - 10:00PM",
+            "link": "https://tr.ee/G7A_f--8xS",
+            "name": "YSA Iftar",
+            "organization": "YSA"
         },
         {
             "type": "taraweeh",
@@ -146,9 +193,30 @@
             "time": "8:45PM",
             "location": "Berkeley Masjid",
             "details": ""
+        },
+        {
+            "type": "other",
+            "time": "11:00AM - 2:00PM",
+            "location": "Upper Sproul",
+            "name": "Fundraising for Gaza Evacuees",
+            "organization": "MSA"
         }
     ],
     "2025-03-14": [
+        {
+            "type": "other",
+            "time": "11:00AM - 2:00PM",
+            "location": "Upper Sproul",
+            "name": "Fundraising for Gaza Evacuees",
+            "organization": "MSA"
+        },
+        {
+            "type": "other",
+            "time": "12:00PM - 1:00PM",
+            "location": "Eshleman 338",
+            "name": "Sisters Surah Al-Kahf Circle",
+            "organization": "MSA"
+        },
         {
             "type": "Jumaa",
             "time": "1:15PM",
@@ -171,6 +239,21 @@
         }
     ],
     "2025-03-15": [
+        {
+            "type": "other",
+            "time": "5:00PM - 6:30PM",
+            "location": "Berkeley Masjid",
+            "name": "Grad Muslim Workshop",
+            "organization": "MSA"
+        },
+        {
+            "type": "other",
+            "time": "5:00PM - 9:00PM",
+            "location": "Anchor House, Sequoia Room",
+            "link": "http://tinyurl.com/calmsaiftar",
+            "name": "MSA Iftar!!!!",
+            "organization": "MSA"
+        },
         {
             "type": "taraweeh",
             "time": "8:45PM",
