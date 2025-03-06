@@ -100,6 +100,12 @@
     ],
     "2025-03-10": [
         {
+            "type":"iftaar",
+            "time":"6PM",
+            "link":"https://docs.google.com/forms/u/1/d/e/1FAIpQLSe8Qq9jsk83ChJA3Ch2Zo519DK_bSGrLa0flbvOZgGPW7G9pA/viewform?usp=dialog",
+            "host":"African Maghreb Student Union (MMHI)"
+        },
+        {
             "type": "taraweeh",
             "time": "8:30PM",
             "location": "Berkeley Masjid",
@@ -108,6 +114,12 @@
     ],
     "2025-03-11": [
         {
+            "type":"iftaar",
+            "time":"6PM",
+            "link":"bit.ly/mmhiftar",
+            "host":"Muslim Mental Health Initiative (MMHI)"
+        },
+        {
             "type": "taraweeh",
             "time": "8:45PM",
             "location": "Berkeley Masjid",
@@ -115,6 +127,12 @@
         }
     ],
     "2025-03-12": [
+        {
+            "type":"iftaar",
+            "time":"7PM",
+            "link":"https://docs.google.com/forms/d/e/1FAIpQLSfPVmZKbDxVJ1k_YiFNDhP_EQTKZ5oK9ay3wPf595zOOsYKDg/closedform",
+            "host":"Yemeni Student Association (YSA)"
+        },
         {
             "type": "taraweeh",
             "time": "8:45PM",
