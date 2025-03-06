@@ -50,7 +50,7 @@
         {
             "type": "other",
             "time": "12PM",
-            "location": "Eshelman 338",
+            "location": "Eshleman 338",
             "name": "Sisters Surah Al Kahf Circle",
             "organization": "MSA"
         },
@@ -64,7 +64,7 @@
         {
             "type": "Jumaa",
             "time": "2:15PM",
-            "location": "Eshelman Hall Basement (Med Room)",
+            "location": "Eshleman Hall Basement (Med Room)",
             "details": "",
             "jummah_order": 2
         },
@@ -213,7 +213,7 @@
         {
             "type": "other",
             "time": "12:00PM - 1:00PM",
-            "location": "Eshelman 338",
+            "location": "Eshleman 338",
             "name": "Sisters Surah Al-Kahf Circle",
             "organization": "MSA"
         },
@@ -227,7 +227,7 @@
         {
             "type": "Jumaa",
             "time": "2:15PM",
-            "location": "Eshelman Hall Basement (Med Room)",
+            "location": "Eshleman Hall Basement (Med Room)",
             "details": "",
             "jummah_order": 2
         },
@@ -312,7 +312,7 @@
         {
             "type": "Jumaa",
             "time": "2:15PM",
-            "location": "Eshelman Hall Basement (Med Room)",
+            "location": "Eshleman Hall Basement (Med Room)",
             "details": "",
             "jummah_order": 2
         },
