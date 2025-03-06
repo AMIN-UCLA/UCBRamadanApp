@@ -115,6 +115,13 @@
     ],
     "2025-03-10": [
         {
+            "type": "iftaar",
+            "time": "6:00PM - 9:00PM",
+            "link": "https://tr.ee/mc10UDWJFF",
+            "name": "AMSU Iftaar",
+            "organization": "African Maghreb Student Union"
+        },
+        {
             "type": "taraweeh",
             "time": "8:30PM",
             "location": "Berkeley Masjid",
@@ -138,6 +145,13 @@
             "organization": "MSA"
         },
         {
+            "type": "iftaar",
+            "time": "6:00PM - 9:00PM",
+            "link": "http://bit.ly/mmhiftar",
+            "name": "MMHI Iftar",
+            "organization": "MMHI"
+        },
+        {
             "type": "taraweeh",
             "time": "8:45PM",
             "location": "Berkeley Masjid",
@@ -158,6 +172,13 @@
             "location": "Berkeley Masjid",
             "name": "Weekly Ramadan Chronicles",
             "organization": "MSA"
+        },
+        {
+            "type": "iftaar",
+            "time": "7:00PM - 10:00PM",
+            "link": "https://tr.ee/G7A_f--8xS",
+            "name": "YSA Iftar",
+            "organization": "YSA"
         },
         {
             "type": "taraweeh",
@@ -229,6 +250,7 @@
             "type": "other",
             "time": "5:00PM - 9:00PM",
             "location": "Anchor House, Sequoia Room",
+            "link": "http://tinyurl.com/calmsaiftar",
             "name": "MSA Iftar!!!!",
             "organization": "MSA"
         },
